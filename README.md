@@ -1,2 +1,2 @@
 # pet_projects
-Place to host 
+Place to host tinkerings
